@@ -70,7 +70,7 @@ You can always disable location on your phone, and log into the PoGO app to clea
 
  
 
-How do I get a route added?
+###  How do I get a route added?
 
 At this time we are currently accepting new routes.  Please don't just pick your own city to be near you to lower your risk of getting your account banned, please pick a useful route with rare Pokemon spawns that you can’t just get anywhere.
 

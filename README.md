@@ -15,6 +15,12 @@ Always remove the previous version completely and reboot before installing the u
 
 You are softbanned. Don't jump continents, or wait 6 hours logged out before you do. The app can take care of the softban if you have a pokestop nearby. The trick involves opening the pokestop, spinning it, and closing - do this around 40 times (if you are interested how it works).
 
+**I don't see the arrow moving at all!**
+
+Are you zoomed in on the map? You can zoom in by touble tapping the Googlemap, or by swiping with two fingers in opposite directions.
+Did you select a route in Settings? You should select one that is closest to you to avoid jumping continents and getting a ban!
+If you have set everything up as instructed, there is no reason for the arrow not to move!
+
 **Will you make this app for my Apple or Windows phone?**
 
 No.  There are no plans to make apps for these other platforms.

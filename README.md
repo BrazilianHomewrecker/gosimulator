@@ -102,3 +102,7 @@ NOTE-Your goal is to click each step (coordinate) on the web page. It needs to b
 4. Create a text file title using the naming convention City_UniqueLandmark_State_Country.txt and dump your paths long list of coordinates.
 
 6. Open issue here with name [ROUTE] - NAME_OF_ROUTE and post txt file in.
+
+**Interested in what a route looks like?**
+
+Most of the routes can be found in the [issues section](https://github.com/gosimulate/gosimulator/issues). You can download the txt file and paste the coordinates [here](http://www.gpsvisualizer.com/convert_input). Click Convert, and then Google Maps below the parse to see the route.

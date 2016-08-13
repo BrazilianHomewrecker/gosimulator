@@ -21,7 +21,8 @@ No.  There are no plans to make apps for these other platforms.
 
 **Why does the app crash on startup?**
 
-Intel based android phones are not supported.  Google your model if you are not sure before posting here for help.  Popular Intel based phones include the ASUS Zenfone series.   Currently there are no plans to support these phones.
+Intel based android phones are supported, but still worked on. 
+Find out your phone API and Google your model if you are not sure before posting for help.
 
 **I am receiving errors, force closes, etc:**
 
@@ -51,8 +52,12 @@ Try these standard troubleshooting steps:
 6. Test it out and make sure it works.  Now start adding additional options/tweaks one at a time.  Once you receive an error/issue, see if you can repeat it.  If you find a repeatable error, post in the thread your exact steps to make it happen.
 
  
-
 *It is recommended to pretend you are flying on an airplane.  Jump to different locations by logging off and back on to the app based upon how long a typical commercial flight would take.*
+
+*Changing your Device_ID to avoid permaban*
+If Niantic decides to issue permanent bans. They will be either by IP or Device_ID. Currently most of the botting apps make the users have the same Device_ID. It would be wise to change it prior to use.
+To change device ID on a rooted, Xposed Framework phone, use [this app](http://repo.xposed.info/module/com.phoneinfo.changer)
+For other situations look into [this guide](http://alltrickszone.com/how-to-change-android-id-rooted-non-phone-easy-guide/)
 
  
 
@@ -60,9 +65,10 @@ Try these standard troubleshooting steps:
 
 Make sure you can log out and back into standard PokemonGo App without any issues.
 
-Make sure there is room for Pokemon and items.  After so much looting, everything gets full and you will need to clear it out.  Regarding Pokemon, there are some advanced individual settings that can be used to remove specific Pokemon to avoid manual effort.
+Make sure there is room for Pokemon and items.  After so much looting, everything gets full and you will need to clear it out.  Regarding Pokemon, use the app's 'Pokemon setting' to remove specific Pokemon and avoid manual effort.
 
-You can always disable location on your phone, and log into the PoGO app to clear out your inventory and do manual micromanagement. Always check this before asking here - usually your bag or pokebag is full, or you have no balls. (Pun intended)
+You can always disable 'Location' on your phone, and log into the PoGO app to clear out your inventory and do manual micromanagement. Disabling 'Location' will make the red bar 'GPS not found' show up but you can still use the app. 
+Always check this before asking here - usually your bag or pokeslots are full, or you have no balls. (Pun intended)
 
  
 
@@ -74,9 +80,9 @@ You can always disable location on your phone, and log into the PoGO app to clea
 
 At this time we are currently accepting new routes.  Please don't just pick your own city to be near you to lower your risk of getting your account banned, please pick a useful route with rare Pokemon spawns that you can’t just get anywhere.
 
- 
+Make the route pass by as much pokestops and poke nests as you can. Bad routes will eventually be removed.
 
-Please follow these steps.  Yes, you actually have to make a complete route.  You cannot just post in here asking for one.  It takes time and patience to make a good route.
+Please follow these steps.  Yes, you actually have to make a complete route.  You cannot just post in xda thread asking for one.  It takes time and patience to make a good route.
 
 1. Go to http://www.findlatitudeandlongitude.com/click-lat-lng-list/
 

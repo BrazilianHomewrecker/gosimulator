@@ -107,8 +107,7 @@ Please follow these steps.  Yes, you actually have to make a complete route.  Yo
 2. Find your starting point and zoom in super close.  Note that the map legend shows you how long 5 meters is.
 
 3. Next you will keep clicking steps as you make a long path through the area.  Each click needs to be 5-15 meters apart.
-
-NOTE-Your goal is to click each step (coordinate) on the web page. It needs to be between 5-15 meters for each click (coordinate). Click a nice route through a city, including plenty of rare spawns and Pokestops.
+- - NOTE-Your goal is to click each step (coordinate) on the web page. It needs to be between 5-15 meters for each click (coordinate). Click a nice route through a city, including plenty of rare spawns and Pokestops.
 
 4. Create a text file title using the naming convention City_UniqueLandmark_State_Country.txt and dump your paths long list of coordinates.
 

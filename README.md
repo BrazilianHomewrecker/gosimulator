@@ -19,6 +19,7 @@ If you are receiving the error "Something went wrong while catching pokemon" dis
 
 **I don't see the arrow moving at all!**
 
+Disable your ad blocking apps! The simulator detects them and will not work if any are detected!
 Are you zoomed in on the map? You can zoom in by touble tapping the Googlemap, or by swiping with two fingers in opposite directions.
 Did you select a route in Settings? You should select one that is closest to you to avoid jumping continents and getting a ban!
 If you have set everything up as instructed, there is no reason for the arrow not to move!

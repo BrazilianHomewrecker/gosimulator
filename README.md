@@ -96,7 +96,7 @@ Always check this before asking here - usually your bag or pokeslots are full, o
 
 ###  How do I get a route added?
 
-At this time we are currently accepting new routes.  Please don't just pick your own city to be near you to lower your risk of getting your account banned, please pick a useful route with rare Pokemon spawns that you can’t just get anywhere.
+At this time we are currently NOT accepting new routes.  You can however creat a custom route for yourself, or submit it here for everyone to see and use as a custom route for themselves.
 
 Make the route pass by as much pokestops and poke nests as you can. Bad routes will eventually be removed.
 
@@ -113,12 +113,11 @@ Please follow these steps.  Yes, you actually have to make a complete route.  Yo
 
 5. Save file on sd card and use it through Custom route. 
 
-
-6. Open [issue](https://github.com/gosimulate/gosimulator/issues) here with name [ROUTE] - NAME_OF_ROUTE and post txt file in. This helps other users use same route
+6. Open [issue](https://github.com/gosimulate/gosimulator/issues) here with name [ROUTE] - NAME_OF_ROUTE and post txt file in. This helps other users use the same route
  
 [Example](https://github.com/gosimulate/gosimulator/issues/1)
 
-**Keep in mind, Custom user defined routes will be added in one of the future releases**
+**Keep in mind, Custom user defined routes will no longer be added in one of the future releases**
 
 **Interested in what a route looks like?**
 

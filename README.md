@@ -112,7 +112,10 @@ NOTE-Your goal is to click each step (coordinate) on the web page. It needs to b
 
 4. Create a text file title using the naming convention City_UniqueLandmark_State_Country.txt and dump your paths long list of coordinates.
 
-6. Open [issue](https://github.com/gosimulate/gosimulator/issues) here with name [ROUTE] - NAME_OF_ROUTE and post txt file in.
+5. Save file on sd card and use it through Custom route. 
+
+
+6. Open [issue](https://github.com/gosimulate/gosimulator/issues) here with name [ROUTE] - NAME_OF_ROUTE and post txt file in. This helps other users use same route
  
 [Example](https://github.com/gosimulate/gosimulator/issues/1)
 

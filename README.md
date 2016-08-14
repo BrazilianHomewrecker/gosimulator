@@ -1,4 +1,5 @@
 LATEST LINK CAN BE FOUND AT [TWITTER](https://twitter.com/go_simulator)
+
 ALTERNATE D/L USUALLY AT [WEB](http://bit.ly/gosimulator)
 
 ## Go_Simulator
@@ -16,6 +17,10 @@ Always remove the previous version completely and reboot before installing the u
 
 You are softbanned. Don't jump continents, or wait 6 hours logged out before you do. The app can take care of the softban if you have a pokestop nearby. The trick involves opening the pokestop, spinning it, and closing - do this around 40 times (if you are interested how it works).    
 If you are receiving the error "Something went wrong while catching pokemon" disable razzberries, set them to 9999
+
+**Pokemon flee, but I can loot pokestops!**
+
+This appears to be a new sort of ban which is still being looked into. You can join the [discussion](https://github.com/gosimulate/gosimulator/issues/74) to help.
 
 **I don't see the arrow moving at all!**
 
@@ -107,7 +112,11 @@ NOTE-Your goal is to click each step (coordinate) on the web page. It needs to b
 
 4. Create a text file title using the naming convention City_UniqueLandmark_State_Country.txt and dump your paths long list of coordinates.
 
-6. Open issue here with name [ROUTE] - NAME_OF_ROUTE and post txt file in.
+6. Open [issue](https://github.com/gosimulate/gosimulator/issues) here with name [ROUTE] - NAME_OF_ROUTE and post txt file in.
+ 
+(Example](https://github.com/gosimulate/gosimulator/issues/1)
+
+**Keep in mind, Custom user defined routes will be added in one of the future releases**
 
 **Interested in what a route looks like?**
 

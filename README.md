@@ -114,7 +114,7 @@ NOTE-Your goal is to click each step (coordinate) on the web page. It needs to b
 
 6. Open [issue](https://github.com/gosimulate/gosimulator/issues) here with name [ROUTE] - NAME_OF_ROUTE and post txt file in.
  
-(Example](https://github.com/gosimulate/gosimulator/issues/1)
+[Example](https://github.com/gosimulate/gosimulator/issues/1)
 
 **Keep in mind, Custom user defined routes will be added in one of the future releases**
 

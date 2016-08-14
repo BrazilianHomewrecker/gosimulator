@@ -14,7 +14,8 @@ Always remove the previous version completely and reboot before installing the u
 
 **Pokemon flee on the first throw, i spin the stop but no loot! Why?**
 
-You are softbanned. Don't jump continents, or wait 6 hours logged out before you do. The app can take care of the softban if you have a pokestop nearby. The trick involves opening the pokestop, spinning it, and closing - do this around 40 times (if you are interested how it works).
+You are softbanned. Don't jump continents, or wait 6 hours logged out before you do. The app can take care of the softban if you have a pokestop nearby. The trick involves opening the pokestop, spinning it, and closing - do this around 40 times (if you are interested how it works).    
+If you are receiving the error "Something went wrong while catching pokemon" disable razzberries, set them to 9999
 
 **I don't see the arrow moving at all!**
 
@@ -32,6 +33,7 @@ Intel based android phones are supported, but still worked on.
 Find out your phone API and Google your model if you are not sure before posting for help.
 
 **App crashes when I press START**
+
 Make sure you haven't left Transfer or Evolve CP empty! Check all your settings before trying again!
 
 **I am receiving errors, force closes, etc:**

@@ -28,6 +28,7 @@ Did you select a route in Settings? You should select one that is closest to you
 If you have set everything up as instructed, there is no reason for the arrow not to move!
 
 **How do I use a custom route?**
+
 Open the simulator and select Custom route in settings. Find the .txt file on your mobile phone that you downloaded from [routes wiki](https://github.com/gosimulate/gosimulator/wiki/ROUTES) or you created yourself. The application will crash if .txt has invalid data in it such as an empty space between coordinates.
 
 **Will you make this app for my Apple or Windows phone?**

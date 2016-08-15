@@ -52,6 +52,9 @@ Try these standard troubleshooting steps:
 - Toggle Airplane mode
 - Reboot Phone
 - Remove / Reinstall latest version
+- 
+**How do I use a custom route?**
+Open the simulator and select Custom route in settings. Find the .txt file on your mobile phone that you downloaded from [routes wiki](https://github.com/gosimulate/gosimulator/wiki/ROUTES) or you created yourself. The application will crash if .txt has invalid data in it such as an empty space between coordinates.
 
  
 

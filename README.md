@@ -95,7 +95,7 @@ Always check this before asking here - usually your bag or pokeslots are full, o
 
  
 
-###  How do I get a route added?
+###  How do I make my own route?
 
 At this time we are currently NOT accepting new routes.  You can however creat a custom route for yourself, or submit it here for everyone to see and use as a custom route for themselves.
 
@@ -118,7 +118,8 @@ Please follow these steps.  Yes, you actually have to make a complete route.  Yo
  
 [Example](https://github.com/gosimulate/gosimulator/issues/1)
 
-**Keep in mind, Custom user defined routes will no longer be added in one of the future releases**
+**Keep in mind, Custom user defined routes will no longer be added in one of the future releases**    
+ROUTE issues are closed upon approval and tagging, but you can keep the discussion going, or look for premade routes under the [milestone ROUTE](https://github.com/gosimulate/gosimulator/milestone/2?closed=1)
 
 **Interested in what a route looks like?**
 

@@ -36,11 +36,13 @@ No.  There are no plans to make apps for these other platforms.
 **Why does the app crash on startup?**
 
 Intel based android phones are supported, but still worked on. 
+
 Find out your phone API and Google your model if you are not sure before posting for help.
 
 **App crashes when I press START**
 
 Make sure you haven't left Transfer or Evolve CP empty! Check all your settings before trying again!
+
 If you are using a custom route make sure there are no empty spaces in .txt file!
 
 **I am receiving errors, force closes, etc:**

@@ -1,6 +1,4 @@
-LATEST LINK CAN BE FOUND AT [TWITTER](https://twitter.com/go_simulator)
-
-ALTERNATE D/L USUALLY AT [WEB](http://bit.ly/gosimulator)
+LATEST LINK CAN BE FOUND AT [WIKI](https://github.com/gosimulate/gosimulator/wiki)
 
 ## Go_Simulator
 

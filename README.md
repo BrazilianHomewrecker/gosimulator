@@ -2,7 +2,7 @@ LATEST LINK CAN BE FOUND AT [WIKI](https://github.com/gosimulate/gosimulator/wik
 
 #Donate 
  
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WL7WL47J8TP6A)
+
 
 Note: Donate email is of first founder of this app. Since we are good friends, he let me recieve donations on his paypal ( dont have my own one). Please do not use that email for any contacting you will not get response. All support you can get here by opening issue.
 
